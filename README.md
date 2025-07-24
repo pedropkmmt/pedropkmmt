@@ -1,60 +1,52 @@
-# 👋 Hey there, I’m **Pedro Muttenda**  
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-🚀 **Software Engineer | Frontend Specialist | Web & App Developer**  
+###
 
-I’m passionate about crafting **beautiful, responsive, and high-performance web applications**. I specialize in **Frontend Development** but also enjoy working on **Full-Stack projects**.  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-💻 **Tech Stack I Love:**  
-- 🎨 **Frontend:** React.js, Next.js, JavaScript (ES6+), TailwindCSS, Bootstrap, CSS3, HTML5  
-- 🛠 **Backend & DB:** PHP, MySQL, Python  
-- 📱 **App Development:** Cross-platform web & mobile apps  
+###
 
----
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## ⚡ About Me  
+###
 
-- 🔭 Currently improving my **frontend & full-stack skills**  
-- 🌱 Learning more about **backend integration & cloud deployment**  
-- 💡 Love **building interactive UIs** and exploring **new tech trends**  
-- 🖌 I believe **good UI/UX = great user experience**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
----
+###
 
-## 🛠 Tech & Tools  
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,php,mysql,python" />
-</p>
+###
 
----
+<br clear="both">
 
-## 📈 GitHub Stats  
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedropkmmt&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedropkmmt&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌐 Connect with Me  
-
-<p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-⭐ **Feel free to check out my projects and leave a star!** ⭐  
-
+###
 
 
 ###
