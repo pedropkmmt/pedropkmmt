@@ -8,8 +8,6 @@
 
 ###
 
-<img align="right" height="150" src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndhazRjbmhjZjFiMncxM2ZoNHFsZzZwbXVuM2l3eGdyY2Z2NXc3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cb9aF9tDyiRkYbz3BX/200.webp"  />
-
 ###
 
 <div align="left">
